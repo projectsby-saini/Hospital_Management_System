@@ -13,7 +13,7 @@ Register new patients, update patient details, and manage patient records.
 # Doctor Management: 
 Add, update, and manage doctor profiles and schedules.
 
-#Billing System: 
+# Billing System: 
 Generate and manage bills for patients, including treatment costs, consultation fees, and room charges.
 
 # Appointment Scheduling:
